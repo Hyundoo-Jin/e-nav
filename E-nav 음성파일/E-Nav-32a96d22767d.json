@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mindful-furnace-208708",
+  "private_key_id": "32a96d22767dcfefc5f2798c8c2218cd66268fc3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDlSqwq1zgXcLYT\n30zt9z9/rRsPvsZVdbHdIdjGTiuInj6xdfUvDBXpP+oN5yAC2j0s/70kD4oJHye2\nxmlCyT5NvAUEyz6VbtS7a4LYFurBMLNS6exai7q1+78rhOjEHsvdikiit148appg\nAANl7oV609ScY70ty2llTDTxoehsM5FK0nzR010ffYPqIdDfDXPac7yv5GsPTMeO\nnoegD1w0y51kYSNDpoJR499wm1XzC19KTCp8gBaWZhVcXL4HTGRW8g30mY1s+Y4Z\n8UXkZqbms24zMZS3aDWOynERqJyyFOCQOvG8AUds6QhkDN+E4XJy/tQpHJH87XlT\nPgXH5KKZAgMBAAECggEABsBIObIwyfrk94iSfaqzHU2h33iu4wcGO8Qye2NDk6AS\nKTw3ggE9d2rM98gTeJYHqVal0WUeO7bFvvNQV9mwSo5jyPB5iSGUZKjNl1J0asgF\n7aXq0j8tOgy9pBjDmDuuZblbumPDA+0hGrzBXNvVJQjN6KVkpW+o7KU95VPusZnU\nUeySF6Gp0Gauca6AJEbuCfL5JyQzGO7f93EZiOIStTpGKnnjsL7ndUM9bmq94bQO\nDC4pyloYqUIz+Z+h1EFK8Um0eyzH/hx+nPkhW8hfiWPZA4kZ83sgVWgTKX2V0rwV\neuIVCIkFf63dYXJMiOglLKjRYYdZvGGYTop/ehLVIQKBgQD6MRDgJy9So78j9LiO\npvKN6CqcadJkHVEjVhCrXTTWxVaY3uOlN9j56cHdSj8YVq3TlNBlbXC0kZm/Z+/o\nApaq1M/4L6UOvc0gqvOHMCBjK6UwdDZSHQxjxEsNB5GH+bfc9B5Jg/b6DjYrrCJS\nYZwIhFc2mCK4ldY4YI7OXESUOQKBgQDqnWTw5pKrK1SopVYtiSwnJwDKr/4P4fvJ\nl2L2P/Qp9DGvoVwarR1r/l62KOykxIXG+v2Bscrw3zipXBuVPdLvaSOGeGugFMhV\nKNf9b0XXPU0sACO1jJFGt5aEBTcHaTB1dcu1Frd2hSyLUX0ztWoedA2/hD4FruMG\nF3FfxnZBYQKBgCdHZr/aRwqxXIPXmtYCjdgLmA0AbCB9ncxvaaSNuIrzZloPvCun\nLfBma6JDUs6OZTHvjhwuZ2Bh74JmXfrN1Tuyt4feawp6b+buD9esjZkkNAX8aL7R\ngq1zFtlP0+BGK0CMLukZx7+QVZ7bonPOkUGhDVQr5F+YXo5xUlpBkB65AoGAWSvb\nashoJJDCi5rTx1jkpDjpzx/XE5hTx8o3PdsO5Uc//z34MNdtYFd9DgU99F4RbpCE\n+99kf+qHsa8leLLX0lEGxJxOY7iib+OnPFcnl2hgRYIEEIPNz7AFkEYfJTzwwyQz\nea+ZqX1ycb1WNeoU3GBFvW342NYgyXbti3Z2CeECgYEA8p4vzpYgLchE23PpFe8S\nn7S2/N3l83fWzoTYIdkuRT2M36hMpiyTNXQGmpkESLZFrFpf/U8Y5QirtbCFfhTD\nKSIBkCGxzlh/dfO58LBZF6IDAx1+P1e60d8vMAOoYvkkJfyoO5cZwJXtoUg9++As\nQccDjz4+AffLOkU+RBsu4wE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "e-nav-437@mindful-furnace-208708.iam.gserviceaccount.com",
+  "client_id": "109650110467853482721",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/e-nav-437%40mindful-furnace-208708.iam.gserviceaccount.com"
+}

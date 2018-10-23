@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/jin-lab/workspace/E-nav/LSTM"
+all_model_checkpoint_paths: "/home/jin-lab/workspace/E-nav/LSTM"

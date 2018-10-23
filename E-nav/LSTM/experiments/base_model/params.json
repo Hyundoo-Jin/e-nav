@@ -1,0 +1,16 @@
+{
+    "learning_rate": 0.001,
+    "batch_size": 32,
+    "num_epochs": 100,
+
+    "use_batch_norm": true,
+    "bn_momentum": 0.9,
+    "dropout_prob": 0.5,
+
+    "num_labels": 18,
+
+    "num_parallel_calls": 4,
+    "save_summary_steps": 1,
+
+    "lstm_sizes" : [64, 64, 64, 64, 64]
+}
